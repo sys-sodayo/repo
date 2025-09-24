@@ -83,7 +83,3 @@ E(\theta_f, \theta_y, \theta_d) =
 $$
 
 ---
-
-这样修改后，放到 GitHub README.md 中，公式就能用 MathJax 正常显示了。
-
-要不要我顺手帮你也把 **Mermaid 图里的节点标签里的公式**（比如 `L_label` 和 `L_domain`）改成 `LaTeX + markdown` 兼容的形式？
